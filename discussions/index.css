@@ -1,0 +1,1108 @@
+.discussion-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.discussion-discussion {
+  width: 100%;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 3px 6px 0px rgba(18, 15, 40, 0.11999999731779099) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 15, 33, 1);
+}
+.discussion-container6325 {
+  top: 136px;
+  left: 0px;
+  width: 375px;
+  height: 60px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 2px 0px rgba(23, 26, 31, 0.11999999731779099) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(10, 77, 32, 1);
+}
+.discussion-divider1025 {
+  top: 56px;
+  left: 85px;
+  width: 0px;
+  height: 1000px;
+  position: absolute;
+}
+.discussion-text {
+  top: 12px;
+  left: 63px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-image29 {
+  top: 0px;
+  left: -2px;
+  width: 65px;
+  height: 60px;
+  position: absolute;
+}
+.discussion-container6327 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 136px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 2px 0px rgba(23, 26, 31, 0.11999999731779099) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 15, 33, 1);
+}
+.discussion-container6328 {
+  top: 0px;
+  left: 0px;
+  width: 375px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 0);
+}
+.discussion-image2604 {
+  top: 0px;
+  left: 279px;
+  width: 96px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discussion-group {
+  top: 16.67020034790039px;
+  left: 12px;
+  width: 65.87339782714844px;
+  height: 10.563798904418945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-group01 {
+  top: 0px;
+  left: 0px;
+  width: 65.87339782714844px;
+  height: 10.563798904418945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-group02 {
+  top: 0px;
+  left: 0px;
+  width: 65.87339782714844px;
+  height: 10.563798904418945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-group03 {
+  top: 0px;
+  left: 0px;
+  width: 65.87339782714844px;
+  height: 10.563798904418945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-group04 {
+  top: 0px;
+  left: 43.053199768066406px;
+  width: 20.27660369873047px;
+  height: 10.063798904418945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 10px;
+  opacity: 0.35;
+  position: absolute;
+}
+.discussion-group05 {
+  top: 3.755300283432007px;
+  left: 64.68080139160156px;
+  width: 1.192596435546875px;
+  height: 3.591798782348633px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 1px;
+  height: 4px;
+  opacity: 0.40;
+  position: absolute;
+}
+.discussion-group06 {
+  top: 1.2020986080169678px;
+  left: 44.25529861450195px;
+  width: 17.87240219116211px;
+  height: 7.659601211547852px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 8px;
+  position: absolute;
+}
+.discussion-group07 {
+  top: 0.35104918479919434px;
+  left: 22.12769317626953px;
+  width: 14.468107223510742px;
+  height: 10.071551322937012px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector03 {
+  top: 0px;
+  left: 0px;
+  width: 14px;
+  height: 10px;
+  position: absolute;
+}
+.discussion-group08 {
+  top: 2.053199529647827px;
+  left: 8.510601043701172px;
+  width: 2.553201675415039px;
+  height: 8.510599136352539px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 3px;
+  height: 9px;
+  position: absolute;
+}
+.discussion-group09 {
+  top: 0.3509995937347412px;
+  left: 12.766002655029297px;
+  width: 2.553098678588867px;
+  height: 10.212799072265625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 3px;
+  height: 10px;
+  position: absolute;
+}
+.discussion-group10 {
+  top: 5.031899929046631px;
+  left: 4.255300521850586px;
+  width: 2.5531997680664062px;
+  height: 5.531898498535156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 3px;
+  height: 6px;
+  position: absolute;
+}
+.discussion-group11 {
+  top: 7.159599304199219px;
+  left: 0px;
+  width: 2.5531997680664062px;
+  height: 3.4041996002197266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector07 {
+  top: 0px;
+  left: 0px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.discussion-image2605 {
+  top: 0px;
+  left: 0px;
+  width: 72px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.discussion-group12 {
+  top: 16.785600662231445px;
+  left: 30px;
+  width: 27.33639907836914px;
+  height: 10.702798843383789px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-group13 {
+  top: 0px;
+  left: 0px;
+  width: 27.33639907836914px;
+  height: 10.702798843383789px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-group14 {
+  top: 0px;
+  left: 0px;
+  width: 27.33639907836914px;
+  height: 10.702798843383789px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-group15 {
+  top: 0px;
+  left: 0px;
+  width: 27.33639907836914px;
+  height: 10.702798843383789px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-group16 {
+  top: 0px;
+  left: 0px;
+  width: 7.855701446533203px;
+  height: 10.702798843383789px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector08 {
+  top: 0px;
+  left: 0px;
+  width: 8px;
+  height: 11px;
+  position: absolute;
+}
+.discussion-group17 {
+  top: 1.6106984615325928px;
+  left: 9.592498779296875px;
+  width: 2.246501922607422px;
+  height: 7.474300384521484px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector09 {
+  top: 0px;
+  left: 0px;
+  width: 2px;
+  height: 7px;
+  position: absolute;
+}
+.discussion-group18 {
+  top: 0.25440025329589844px;
+  left: 13.533401489257812px;
+  width: 8.102996826171875px;
+  height: 10.193998336791992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector10 {
+  top: 0px;
+  left: 0px;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+}
+.discussion-group19 {
+  top: 0.25440025329589844px;
+  left: 22.857498168945312px;
+  width: 4.478900909423828px;
+  height: 10.193998336791992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.discussion-vector11 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 10px;
+  position: absolute;
+}
+.discussion-container79 {
+  top: -8px;
+  left: -11px;
+  width: 390px;
+  height: 40px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 15, 33, 0);
+}
+.discussion-avatar2570 {
+  top: 86px;
+  left: 27px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(249, 216, 192, 1);
+}
+.discussion-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-avatar2571 {
+  top: 86px;
+  left: 51px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(197, 209, 247, 1);
+}
+.discussion-rectangle01 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-avatar2572 {
+  top: 86px;
+  left: 75px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(238, 248, 236, 1);
+}
+.discussion-rectangle02 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-avatar2573 {
+  top: 86px;
+  left: 99px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(245, 203, 203, 1);
+}
+.discussion-rectangle03 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-avatar2574 {
+  top: 86px;
+  left: 123px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(0, 189, 214, 1);
+}
+.discussion-text02 {
+  top: 7px;
+  left: 5px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 14px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-button3012 {
+  top: 84px;
+  left: 324px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background-color: rgba(238, 253, 243, 1);
+}
+.discussion-text04 {
+  top: 6px;
+  left: 22px;
+  color: rgba(17, 123, 52, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-magnifyingglass {
+  top: 10px;
+  left: 10px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.discussion-text05 {
+  top: 40px;
+  left: 27px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Epilogue;
+  font-weight: 700;
+  line-height: 36px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-button3013 {
+  top: 84px;
+  left: 263px;
+  width: 54px;
+  height: 32px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background-color: rgba(0, 0, 0, 0);
+}
+.discussion-text07 {
+  top: 6px;
+  left: 8px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 20px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-chevrondownlarge {
+  top: 10px;
+  left: 34px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.discussion-button3014 {
+  top: 656px;
+  left: 299px;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 0px 2px 0px rgba(23, 26, 31, 0.11999999731779099) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 26px;
+  background-color: rgba(0, 189, 214, 1);
+}
+.discussion-text09 {
+  top: 12px;
+  left: 38px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-eadd {
+  top: 14px;
+  left: 14px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.discussion-container6330 {
+  top: 218px;
+  left: 57px;
+  width: 224px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 22px;
+  background-color: rgba(184, 245, 205, 1);
+}
+.discussion-text10 {
+  top: 11px;
+  left: 48px;
+  color: rgba(50, 56, 66, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-avatar2575 {
+  top: 8px;
+  left: 12px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(166, 245, 255, 1);
+}
+.discussion-rectangle04 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-container6331 {
+  top: 286px;
+  left: 129px;
+  width: 224px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 22px;
+  background-color: rgba(184, 245, 205, 1);
+}
+.discussion-text12 {
+  top: 11px;
+  left: 48px;
+  color: rgba(50, 56, 66, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-avatar2576 {
+  top: 8px;
+  left: 12px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(166, 245, 255, 1);
+}
+.discussion-rectangle05 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-container6332 {
+  top: 354px;
+  left: 37px;
+  width: 304px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 34px;
+  background-color: rgba(184, 245, 205, 1);
+}
+.discussion-text14 {
+  top: 11px;
+  left: 72px;
+  color: rgba(50, 56, 66, 1);
+  width: 208px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-avatar2578 {
+  top: 6.392303466796875px;
+  left: 33.57231140136719px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(166, 245, 255, 1);
+}
+.discussion-rectangle06 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-container6333 {
+  top: 434px;
+  left: 132px;
+  width: 304px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 22px;
+  background-color: rgba(184, 245, 205, 1);
+}
+.discussion-avatar2579 {
+  top: 8px;
+  left: 12px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(249, 216, 192, 1);
+}
+.discussion-rectangle07 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-text18 {
+  top: 11px;
+  left: 88px;
+  color: rgba(50, 56, 66, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-container6336 {
+  top: 612.392333984375px;
+  left: 144.5723114013672px;
+  width: 304px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 22px;
+  background-color: rgba(184, 245, 205, 1);
+}
+.discussion-avatar25791 {
+  top: 8px;
+  left: 12px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(249, 216, 192, 1);
+}
+.discussion-rectangle08 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-text20 {
+  top: 11px;
+  left: 88px;
+  color: rgba(50, 56, 66, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-container6334 {
+  top: 492.3923034667969px;
+  left: 59.57231140136719px;
+  width: 167px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 22px;
+  background-color: rgba(184, 245, 205, 1);
+}
+.discussion-text22 {
+  top: 11px;
+  left: 48px;
+  color: rgba(50, 56, 66, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-avatar2582 {
+  top: 8px;
+  left: 12px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(166, 245, 255, 1);
+}
+.discussion-rectangle09 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-container6335 {
+  top: 560.392333984375px;
+  left: 60.57231140136719px;
+  width: 94px;
+  height: 44px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 22px;
+  background-color: rgba(184, 245, 205, 1);
+}
+.discussion-text24 {
+  top: 11px;
+  left: 48px;
+  color: rgba(50, 56, 66, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 22px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-avatar2583 {
+  top: 8px;
+  left: 12px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 14px;
+  background-color: rgba(166, 245, 255, 1);
+}
+.discussion-rectangle10 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.discussion-container80 {
+  top: 732px;
+  left: -15px;
+  width: 390px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  box-shadow: 0px 0px 2px 0px rgba(23, 26, 31, 0.11999999731779099) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(10, 77, 32, 1);
+}
+.discussion-tab-bar-menu4 {
+  top: 0px;
+  left: 16px;
+  width: 374px;
+  height: 68px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.discussion-frame {
+  top: 0px;
+  left: 249.32000732421875px;
+  width: 125px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.discussion-circle09 {
+  top: 14px;
+  left: 50.33000183105469px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.discussion-text26 {
+  top: 38px;
+  left: 42.33000183105469px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 125px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.discussion-home {
+  top: 14px;
+  left: 50.33000183105469px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.discussion-text28 {
+  top: 38px;
+  left: 48.33000183105469px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.discussion-frame2 {
+  top: 0px;
+  left: 124.66000366210938px;
+  width: 125px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.discussion-rectangle11 {
+  top: 0px;
+  left: 0px;
+  width: 125px;
+  height: 2px;
+  position: absolute;
+}
+.discussion-fchat {
+  top: 14px;
+  left: 50.33000183105469px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+.discussion-text30 {
+  top: 38px;
+  left: 34.83000183105469px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .discussion-discussion {
+    width: 367px;
+  }
+}
