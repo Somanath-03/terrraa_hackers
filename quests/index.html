@@ -93,18 +93,39 @@
       href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css" /></head
   >
   <script>
-  document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', function() {
   console.log("DOM is ready!");
-  const dataToSend = {"set":0};
-            
-            fetch('http://localhost:3000/api/questrec',{
-                method:'POST',
-                headers: {
-                    'Content-Type':'application/json'
-                },
-                body: JSON.stringify({data:dataToSend}),
-            })
-});  
+  const dataToSend = {"set": 0};
+
+  fetch('http://localhost:3000/api/questrec', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ data: dataToSend }),
+  })
+  .then(response => {
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const responseData =   response.json();
+
+    // Assuming responseData is an array, access the first two elements
+    const firstElement = responseData[0];
+    const secondElement = responseData[1];
+
+    console.log(responseData[0]);
+
+    document.getElementById("quest1").textContent = response[0];
+    document.getElementById("quest2").textContent = response[1];
+
+
+  })
+  .then(responseData => {
+    console.log(responseData);
+  })
+  .catch(error => {
+    console.error('Error:', error);
+  });
+});
     
   </script>
   

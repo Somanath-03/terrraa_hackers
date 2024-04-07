@@ -109,14 +109,23 @@ app.route('/api/logout')
     const db = client.db(dbName);
 
    
-    if (dataFromlogin["set"] == 0){
-      console.log(user.location)
-    // db.collection('credentials').findOne({ "in": 1 }).then(user => user ? console.log(user.location) : console.log("No user found with 'in' set to 1."));
-    // db.collection('quests').find({ "UserLocation": user.location }).toArray().then(titles => console.log(JSON.stringify(titles)));
-
+    if (dataFromlogin["set"] == 0) {
+      db.collection('credentials').findOne({ "in": 1 }).then(user => {
+        if (user) {
+          var usn = user.location; // Store user location in variable
+          console.log(usn); // Log user location
+          db.collection('quests').find({ "UserLocation": usn }).project({ "QuestTitle": 1 }).toArray().then(titles => res.send(JSON.stringify(titles)));
+          // Further operations dependent on 'usn' should go here
+        } else {
+          console.log("No user found with 'in' set to 1.");
+        }
+      });
     }
-});
+    }, function(err) {
+      console.error(err);
+    })
   });
+
 
 
 
